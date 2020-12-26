@@ -14,3 +14,6 @@
 - React
 - Javascript
 - CSS
+
+## Demo video
+![algo1](https://user-images.githubusercontent.com/57489399/103148608-90846c80-479c-11eb-82f6-6a78a3461e17.gif)
