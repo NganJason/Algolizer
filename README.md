@@ -10,7 +10,7 @@
     - Insertion sort
 - Visualize backtracking algorithm by solving a sudoku board
 
-Tech stack
+## Tech stack
 - React
 - Javascript
 - CSS
