@@ -1,0 +1,13 @@
+.sorting-box {
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  position: relative;
+  height: 60vh;
+  margin: 1rem auto;
+  width: 85vw;
+  background-color: var(--sortingBody);
+  border-bottom: 8px solid var(--bodyBorder);
+  box-shadow: 0px 20px var(--bodyShadow);
+  margin-bottom: 3rem;
+}
