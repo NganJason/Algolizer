@@ -17,3 +17,5 @@
 
 ## Demo video
 ![algo1](https://user-images.githubusercontent.com/57489399/103148608-90846c80-479c-11eb-82f6-6a78a3461e17.gif)
+
+![algo3](https://user-images.githubusercontent.com/57489399/103148657-17394980-479d-11eb-889b-9585c72738d3.gif)
