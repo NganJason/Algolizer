@@ -43,6 +43,10 @@ Algolizer is an interactive web app that visualizes complex algorithms and makes
   <img src="https://user-images.githubusercontent.com/57489399/121903447-e523a000-cd5a-11eb-8be7-7eae275532b4.gif" name="Bubble Sort">
 </details>
 <details>
+  <summary>Selection Sort</summary>
+  <img src="https://user-images.githubusercontent.com/57489399/121905728-0b4a3f80-cd5d-11eb-84bf-d3d3c19f96be.gif" name="Selection Sort">
+</details>
+<details>
   <summary>Insertion Sort</summary>
   <img src="https://user-images.githubusercontent.com/57489399/121904870-27011600-cd5c-11eb-82be-3e0bb5d3613a.gif" name="Insertion Sort">
 </details>
