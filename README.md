@@ -2,7 +2,7 @@
 
 Algolizer is an interactive web app that visualizes complex algorithms and makes learning algorithms easier. This simple React application will walk you through some of the seemingly challenging algorithms such as A* path finding, sorting and backtracking algorithms
 
-###### Features Provided by App
+##### Features Provided by App
 * A Star Shortest Path Algorithm
     * Visualizes the well known A Start Shortest Path Algorithm by allowing users to add in starting and ending points as well as placing obstacles along the way
     * The algorithm will always output the shortest path between two given points to the user
@@ -16,7 +16,7 @@ Algolizer is an interactive web app that visualizes complex algorithms and makes
     * Visualizes Backtracking Algorithm by solving a given sudoku puzzle automatically
     * Algorithm will try out all the possible cases and backtrack when a dead end is encountered 
 
-##### Tech stack
+#### Tech stack
 - React
 - Javascript
 - SCSS
