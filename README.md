@@ -24,13 +24,17 @@ Algolizer is an interactive web app that visualizes complex algorithms and makes
 ## Demo videos ##
 
 <details>
-  <summary>Homepage</summary>
+  <summary>A Star Shortest Path Algorithm</summary>
   <img src="https://user-images.githubusercontent.com/57489399/103148608-90846c80-479c-11eb-82f6-6a78a3461e17.gif" name="Homepage">
 </details>
-![algo1](https://user-images.githubusercontent.com/57489399/103148608-90846c80-479c-11eb-82f6-6a78a3461e17.gif)
+<details>
+  <summary>Sorting Algorithms</summary>
+  <img src="https://user-images.githubusercontent.com/57489399/103148768-1f45b900-479e-11eb-963b-4a364cd0cd17.gif" name="Sorting Algorithms">
+</details>
+<details>
+  <summary>Backtracking Algorithm</summary>
+  <img src="https://user-images.githubusercontent.com/57489399/103148657-17394980-479d-11eb-889b-9585c72738d3.gif" name="Sorting Algorithms">
+</details>
 
-![algo2](https://user-images.githubusercontent.com/57489399/103148768-1f45b900-479e-11eb-963b-4a364cd0cd17.gif)
-
-![algo3](https://user-images.githubusercontent.com/57489399/103148781-3684a680-479e-11eb-8b9f-b0eae72212b2.gif)
 
 ![algo3](https://user-images.githubusercontent.com/57489399/103148657-17394980-479d-11eb-889b-9585c72738d3.gif)
