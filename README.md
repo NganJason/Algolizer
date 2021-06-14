@@ -31,14 +31,21 @@ Algolizer is an interactive web app that visualizes complex algorithms and makes
   <img src="https://user-images.githubusercontent.com/57489399/103148608-90846c80-479c-11eb-82f6-6a78a3461e17.gif" name="Homepage">
 </details>
 <details>
+  <summary>Merge Sort</summary>
+  <img src="https://user-images.githubusercontent.com/57489399/121905324-9ecf4080-cd5c-11eb-97d1-634daf85e051.gif" name="Merge Sort">
+</details>
+<details>
+  <summary>Quick Sort</summary>
+  <img src="https://user-images.githubusercontent.com/57489399/121905335-a1ca3100-cd5c-11eb-969c-47b148dc0b8a.gif" name="Quick Sort">
+</details>
+<details>
   <summary>Bubble Sort</summary>
   <img src="https://user-images.githubusercontent.com/57489399/121903447-e523a000-cd5a-11eb-8be7-7eae275532b4.gif" name="Bubble Sort">
 </details>
 <details>
   <summary>Insertion Sort</summary>
-  <img src="https://user-images.githubusercontent.com/57489399/121903778-36339400-cd5b-11eb-9dc6-f370f09d7470.gif" name="Insertion Sort">
+  <img src="https://user-images.githubusercontent.com/57489399/121904870-27011600-cd5c-11eb-82be-3e0bb5d3613a.gif" name="Insertion Sort">
 </details>
-
 <details>
   <summary>Backtracking Algorithm</summary>
   <img src="https://user-images.githubusercontent.com/57489399/103148657-17394980-479d-11eb-889b-9585c72738d3.gif" name="Sorting Algorithms">
