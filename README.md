@@ -35,6 +35,3 @@ Algolizer is an interactive web app that visualizes complex algorithms and makes
   <summary>Backtracking Algorithm</summary>
   <img src="https://user-images.githubusercontent.com/57489399/103148657-17394980-479d-11eb-889b-9585c72738d3.gif" name="Sorting Algorithms">
 </details>
-
-
-![algo3](https://user-images.githubusercontent.com/57489399/103148657-17394980-479d-11eb-889b-9585c72738d3.gif)
