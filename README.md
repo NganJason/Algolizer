@@ -1,6 +1,7 @@
 # Algolizer #
 
-Algolizer is an interactive web app that visualizes complex algorithms and makes learning algorithms easier. This simple React application will walk you through some of the seemingly challenging algorithms such as A* path finding, sorting and backtracking algorithms.
+Algolizer is an interactive web app that visualizes complex algorithms and makes learning algorithms easier. 
+This simple React application will walk you through some of the seemingly challenging algorithms such as A* path finding, sorting and backtracking algorithms.
 
 #### Features Provided by App
 * A Star Shortest Path Algorithm
